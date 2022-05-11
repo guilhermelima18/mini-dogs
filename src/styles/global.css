@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 2rem;
+}
+
+.container {
+  max-width: 300px;
+  margin: 0 auto;
+}
